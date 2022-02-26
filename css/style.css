@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #191a33;
+}
+.navbar .btn{
+    padding: 20px 40px;
+    color: #fff;
+    background: #ff5f13;
+}
+.navbar .nav .nav-link{
+    color: #fff;
+}
